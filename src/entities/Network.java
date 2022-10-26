@@ -197,4 +197,6 @@ public class Network {
     public String toString() {
         return  ip + Character.toString(SEPARATOR) + mask;
     }
+    
+    
 }
